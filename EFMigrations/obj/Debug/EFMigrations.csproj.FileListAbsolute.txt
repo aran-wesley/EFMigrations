@@ -1,0 +1,17 @@
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\bin\Debug\EFMigrations.exe.config
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\bin\Debug\EFMigrations.exe
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\bin\Debug\EFMigrations.pdb
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.csproj.CopyComplete
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.exe
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.pdb
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.Migrations.InitialCreate.resources
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.Migrations.AdicionaEmailCliente.resources
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.Migrations.AdicionarProdutoCliente.resources
+C:\Users\Andrew\source\repos\EFMigrations\EFMigrations\obj\Debug\EFMigrations.Migrations.AlteraTelefoneCliente.resources
